@@ -72,6 +72,21 @@ A sample of the kinds of systems I architect and deliver:
 
 ## Certifications
 
+**Cloud**
+- AWS Cloud Practitioner Essentials — *Amazon Web Services* (2025)
+- Oracle Cloud Infrastructure 2023 Certified Foundations Associate — *Oracle* (2023)
+- Microsoft Certified: Azure Fundamentals — *Microsoft* (2022)
+- Google Certification — *Google* (2024)
+
+**Identity, Security & Microsoft 365**
+- Microsoft 365 Certified: Teams Administrator Associate — *Microsoft* (2025)
+- Microsoft Certified: Security, Compliance, and Identity Fundamentals — *Microsoft* (2022)
+
+**IT Service Management**
+- Atlassian IT Service Management (ITSM) Professional Certificate — *Atlassian* (2025)
+- Jira Work Management Fundamentals — *Atlassian* (2023)
+
+**Networking**
 - Ubiquiti Wireless Admin (UWA)
 - Ubiquiti Routing & Switching Admin (URSCA)
 
@@ -86,8 +101,8 @@ A sample of the kinds of systems I architect and deliver:
 
 ## Connect
 
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-0A66C2?style=flat-square&logo=linkedin&logoColor=white)](https://linkedin.com/in/rolan-bernardo-322136157)
-[![Email](https://img.shields.io/badge/Email-EA4335?style=flat-square&logo=gmail&logoColor=white)](mailto:bokgonzaga19@gmail.com)
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-0A66C2?style=flat-square&logo=linkedin&logoColor=white)](https://linkedin.com/in/YOUR-HANDLE)
+[![Email](https://img.shields.io/badge/Email-EA4335?style=flat-square&logo=gmail&logoColor=white)](mailto:YOUR-EMAIL)
 
 ---
 
