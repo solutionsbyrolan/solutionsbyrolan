@@ -90,6 +90,9 @@ A sample of the kinds of systems I architect and deliver:
 - Ubiquiti Wireless Admin (UWA)
 - Ubiquiti Routing & Switching Admin (URSCA)
 
+**Automation & AI**
+- n8n Academy — n8n Quickstart
+
 ---
 
 ## Currently
